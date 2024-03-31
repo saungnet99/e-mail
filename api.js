@@ -1,5 +1,5 @@
-// Author: Mehmet Kahya
-// Created: 17 March 2024
+// Author: Tirta Sadewa
+// Created: 01 April 2024
 
 function getUserAndDomain() {
     const addr = $("#addr").val();
